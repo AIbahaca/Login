@@ -50,6 +50,7 @@ section .box .container .form h2 {
   font-weight: 600;
   letter-spacing: 1px;
   margin-bottom: 40px;
+  text-shadow: 2px 2px 5px #a9a3af;
 }
 section .box .container .form h2::before {
   content: "";
@@ -79,6 +80,7 @@ section .box .container .form .inputbox input {
   letter-spacing: 1px;
   color: whitesmoke;
   font-weight: 600;
+  text-shadow: 1px 1px 5px #a9a3af;
 }
 section .box .container .form .inputbox input::-moz-placeholder {
   color: whitesmoke;
